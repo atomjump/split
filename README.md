@@ -13,9 +13,9 @@ Export script is run. This analyses the current groups, and handles a good split
 
 Factors to consider here: current size of the group in terms of message number, and growth rate of the group. We will likely want a manual .json file input to this split, as an option.
 
-It posts a 1st warning message to each split group. "This group is set to be migrated at [xx:yy:zz GMT], in 3 hours time to a new server. During a 2 hour migration period, you will not be able to post new messages.  We apologise for any inconvenience during this process. If you wish to delay or cancel this process, please contact our admin team. [Flag Graphic] Translate"
+It posts a 1st warning message to each split group. "This group is set to be migrated at [hours:minutes:seconds GMT], in [x] hours time to a new server. During a [y] hour migration period, you will not be able to post new messages.  We apologise for any inconvenience during this process. If you wish to delay or cancel this process, please contact our admin team. [Flag Graphic] Translate"
 
-Just prior to the migration, it posts a message to each split group. "This group is currently being migrated to a new server. We apologise for any inconvenience during this process. You should wait until you get a 'migration completed' message before posting again. This could take up to 2 hours. [Flag Graphic] Translate"
+Just prior to the migration, it posts a message to each split group. "This group is currently being migrated to a new server. We apologise for any inconvenience during this process. You should wait until you get a 'migration completed' message before posting again. This could take up to [y] hours. [Flag Graphic] Translate"
 
 For atomjump.com, a group title is also written to a .json file for DNS redirection:
 ```
