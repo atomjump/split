@@ -34,7 +34,7 @@
         },
 		"de": {
 			"setToBeMigrated": "Diese Gruppe soll um [Stunden:Minuten:Sekunden GMT] in [x] Stunden auf einen neuen Server migriert werden. Während des Migrationszeitraums von [y] Stunden können Sie keine neuen Nachrichten posten. Wir entschuldigen uns für etwaige Unannehmlichkeiten während dieses Vorgangs. Wenn Sie diesen Vorgang verzögern oder abbrechen möchten, wenden Sie sich bitte an unser Admin-Team. <img src='img/flags.png' height='14' width='48'> https://src.atomjump.com/atomjump/split/translations/ToBeMigrated.md",
-        	"currentlyBeingMigrated": "Diese Gruppe wird derzeit auf einen neuen Server migriert. Wir entschuldigen uns für etwaige Unannehmlichkeiten während dieses Vorgangs. Sie sollten warten, bis Sie die Meldung "Migration abgeschlossen" erhalten, bevor Sie erneut veröffentlichen. Dies kann bis zu [y] Stunden dauern. <img src='img/flags.png' height='14' width='48'> https://src.atomjump.com/atomjump/split/translations/CurrentlyBeingMigrated.md",
+        	"currentlyBeingMigrated": "Diese Gruppe wird derzeit auf einen neuen Server migriert. Wir entschuldigen uns für etwaige Unannehmlichkeiten während dieses Vorgangs. Sie sollten warten, bis Sie die Meldung 'Migration abgeschlossen' erhalten, bevor Sie erneut veröffentlichen. Dies kann bis zu [y] Stunden dauern. <img src='img/flags.png' height='14' width='48'> https://src.atomjump.com/atomjump/split/translations/CurrentlyBeingMigrated.md",
          	"migrationCompleted": "Die Migration dieser Gruppe ist abgeschlossen. Vielen Dank für Ihre Geduld. Hier können Sie jetzt weiterhin Nachrichten posten. <img src='img/flags.png' height='14' width='48'> https://src.atomjump.com/atomjump/split/translations/MigrationCompleted.md"      
         },
         "fr": {
@@ -54,7 +54,7 @@
         },
         "it": {
 			"setToBeMigrated": "Questo gruppo è impostato per essere migrato alle [ore:minuti:secondi GMT], tra [x] ore in un nuovo server. Durante il periodo di migrazione di [y] ore, non potrai pubblicare nuovi messaggi. Ci scusiamo per gli eventuali disagi durante questo processo. Se desideri ritardare o annullare questo processo, contatta il nostro team di amministrazione. <img src='img/flags.png' height='14' width='48'> https://src.atomjump.com/atomjump/split/translations/ToBeMigrated.md",
-        	"currentlyBeingMigrated": "Questo gruppo è attualmente in fase di migrazione a un nuovo server. Ci scusiamo per gli eventuali disagi durante questo processo. Dovresti aspettare di ricevere un messaggio di "migrazione completata" prima di postare di nuovo. Questa operazione potrebbe richiedere fino a [y] ore. <img src='img/flags.png' height='14' width='48'> https://src.atomjump.com/atomjump/split/translations/CurrentlyBeingMigrated.md",
+        	"currentlyBeingMigrated": "Questo gruppo è attualmente in fase di migrazione a un nuovo server. Ci scusiamo per gli eventuali disagi durante questo processo. Dovresti aspettare di ricevere un messaggio di 'migrazione completata' prima di postare di nuovo. Questa operazione potrebbe richiedere fino a [y] ore. <img src='img/flags.png' height='14' width='48'> https://src.atomjump.com/atomjump/split/translations/CurrentlyBeingMigrated.md",
          	"migrationCompleted": "La migrazione di questo gruppo è stata completata. Grazie per la vostra pazienza. Puoi continuare a postare messaggi qui ora. <img src='img/flags.png' height='14' width='48'> https://src.atomjump.com/atomjump/split/translations/MigrationCompleted.md"        
         },
         "jp": {
