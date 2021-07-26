@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 
 # Server Migration Translations
 
