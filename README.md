@@ -1,4 +1,7 @@
 # split
+
+__WARNING: this project has now moved to https://src.atomjump.com/atomjump/split.git__
+
 Splits an AtomJump Messaging database into 2 or more, independent, child databases
 
 Each individual child database can be inserted, using a script here, into an existing 
